@@ -18,8 +18,10 @@
     "framer-motion": "^11.0.3",
     "react-particles": "^2.12.2",
     "tsparticles": "^2.12.0",
+    "tsparticles-slim": "^2.12.0",
+    "tsparticles-engine": "^2.12.0",
     "react-type-animation": "^3.2.0",
-    "ultravox-client": "file:..",
+    "ultravox-client": "workspace:*",
     "@fontsource/rajdhani": "^5.0.8"
   },
   "devDependencies": {
